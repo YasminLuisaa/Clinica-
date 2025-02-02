@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6DeVz84rAfY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Clinica\\Clinica\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yasmi\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
