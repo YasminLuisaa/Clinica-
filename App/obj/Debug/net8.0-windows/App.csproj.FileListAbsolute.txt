@@ -92,3 +92,4 @@ C:\Users\yasmi\OneDrive\Documentos\Clinica\Clinica\App\obj\Debug\net8.0-windows\
 C:\Users\yasmi\OneDrive\Documentos\Clinica\Clinica\App\obj\Debug\net8.0-windows\App.pdb
 C:\Users\yasmi\OneDrive\Documentos\Clinica\Clinica\App\obj\Debug\net8.0-windows\App.genruntimeconfig.cache
 C:\Users\yasmi\OneDrive\Documentos\Clinica\Clinica\App\obj\Debug\net8.0-windows\ref\App.dll
+C:\Users\yasmi\OneDrive\Documentos\Clinica\Clinica\App\obj\Debug\net8.0-windows\App.sourcelink.json

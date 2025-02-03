@@ -36,10 +36,28 @@
               "RelativeDocumentMoniker": "App\\Cadastros\\CadastroPaciente.cs",
               "ToolTip": "C:\\Users\\yasmi\\OneDrive\\Documentos\\Clinica\\Clinica\\App\\Cadastros\\CadastroPaciente.cs",
               "RelativeToolTip": "App\\Cadastros\\CadastroPaciente.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAA2wJEAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAawHYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-02T21:15:45.54Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 228,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             }
           ]
         }
